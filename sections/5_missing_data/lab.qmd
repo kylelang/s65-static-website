@@ -1,0 +1,8 @@
+## Exercises
+
+- [Without Solutions](/lavaan-e-learning/6_missing_data/lab/lab6.html)
+- [With Solutions](/lavaan-e-learning/6_missing_data/lab/lab6_solutions.html)
+
+## Data
+
+- [Eating Attitudes](/lavaan-e-learning/data/eating_attitudes.rds)

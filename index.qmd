@@ -9,3 +9,11 @@ title: "Structural Equation Modeling in R using lavaan"
 ## Full SEM & Mediation
 
 {{< include /sections/_s3.qmd >}}
+
+## Moderation
+
+{{< include /sections/_s4.qmd >}}
+
+## Missing Data
+
+{{< include /sections/_s5.qmd >}}

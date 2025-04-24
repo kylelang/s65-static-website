@@ -1,0 +1,43 @@
+In this module, we will go over moderation analysis using lavaan, including how to specify interactions between latent variables and how to use multiple group models to test for moderation by group.
+
+## Slides
+
+You can access the lecture slides [here](/lavaan-e-learning/5_moderation/moderation.pdf).
+
+## Videos
+
+Below, you can find the lecture recordings.
+
+### Moderation Basics
+
+{{< video https://youtu.be/WtprA4MiDJI?si=3q6H4htNOW7dX7UG >}}
+
+### Post Hoc Analysis
+
+{{< video https://youtu.be/i9XK_3RG9qo?si=SOOXPVRLNBulvE_O >}}
+
+### Orthogonalization
+
+{{< video https://youtu.be/GPud1i6g0lg?si=n9prMNowyj72sAKt >}}
+
+### Double Mean Centering
+
+{{< video https://youtu.be/yRR7TMl2Abc?si=A3cC9jtm_dzH49L7 >}}
+
+*Note:* In 2024, I added some material on latent variable interactions. So, the slide numbers in the second half of the recordings won't match the lecture slides. The divergence begins in the last few minutes of the double mean centering recording.
+
+### Latent Variable Interactions
+
+{{< video https://youtu.be/gh6o1Zs4GE8?si=-M6XF2QalVw90uv9 >}}
+
+### Multiple Moderation
+
+{{< video https://youtu.be/cW9DFI_7p1s?si=O1t4JasC6VQQYHt0 >}}
+
+### Categorical Moderators
+
+{{< video https://youtu.be/HPcnbFEAcLM?si=5ybaLPJwKLdreA_0 >}}
+
+### Moderation via Multiple Group SEM
+
+{{< video https://youtu.be/hcohDCbCgcQ?si=aLksObi0WQbnlB8l >}}

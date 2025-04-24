@@ -1,0 +1,49 @@
+In this module, we'll cover methods for analyzing incomplete data using lavaan. We'll cover both imputation-based solutions and ML-based solutions to the missing data problem.
+
+## Slides
+
+You can access the lecture slides [here](/lavaan-e-learning/6_missing_data/missing_data.pdf)
+
+## Videos
+
+Below, you can find the lecture recordings.
+
+### Introduction
+
+{{< video https://youtu.be/bMdHIJ1jE-0?si=7qsN0Lh6MOfC7Ddq >}}
+
+### Missing Data Mechanisms
+
+{{< video https://youtu.be/woufnNjumxw?si=aCjPUPE2bwkBnzA_ >}}
+
+### Single Imputation
+
+{{< video https://youtu.be/lh2PK68cTFc?si=M-CYynaphB_wE4Dh >}}
+
+### Multiple Imputation Basics
+
+{{< video https://youtu.be/hmexwjHVQ8o?si=WZyZ8PMfT4Uvjd2v >}}
+
+### Multiple Imputation Extensions
+
+{{< video https://youtu.be/Nx6YGIHuhMY?si=7bOjc3RRXGbcpDVo >}}
+
+### MI-Based Analysis
+
+{{< video https://youtu.be/n456EjFEDqg?si=e7n7CQAijzvOA2lv >}}
+
+### Univariate Maximum Likelihood
+
+{{< video https://youtu.be/iGdn_0Yryas?si=zcflYGIuqn9Khxpb >}}
+
+### Multivariate ML
+
+{{< video https://youtu.be/OMRd7k5_8Wk?si=xyAE9ClOPSD52VVC >}}
+
+### FIML Intuition & Theory
+
+{{< video https://youtu.be/vYnoCUvXP6w?si=KJ6GHLGTGMlPk1Vm >}}
+
+### FIML Application & Extensions
+
+{{< video https://youtu.be/t2Hb0UFl2DQ?si=2EmN5Z9JcniZoMfW >}}

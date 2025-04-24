@@ -1,0 +1,9 @@
+## Exercises
+
+- [Without Solutions](/lavaan-e-learning/5_moderation/lab/lab5.html)
+- [With Solutions](/lavaan-e-learning/5_moderation/lab/lab5_solutions.html)
+
+## Data
+
+- [Outlook](/lavaan-e-learning/5_moderation/data/outlook.rds)
+- [Holzinger & Swineford](/lavaan-e-learning/5_moderation/data/holzinger_swineford.rds)
