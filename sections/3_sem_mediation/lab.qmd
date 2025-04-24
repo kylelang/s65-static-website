@@ -1,0 +1,10 @@
+## Exercises
+
+[Without Solutions](../../../4_sem_mediation/lab/lab4.html)
+[With Solutions](../../../4_sem_mediation/lab/lab4_solutions.html)
+
+## Data
+
+[Holzinger & Swineford](../../../4_sem_mediation/data/holzinger_swineford.rds)
+[Eating Attitudes](../../../4_sem_mediation/data/eating_attitudes_completed.rds)
+

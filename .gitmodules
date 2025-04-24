@@ -1,0 +1,3 @@
+[submodule "lavaan-e-learning"]
+	path = lavaan-e-learning
+	url = https://github.com/kylelang/lavaan-e-learning.git

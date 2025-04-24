@@ -1,0 +1,12 @@
+To kick things off in style, we have a special treat: a video lecture from the
+author of lavaan, himself, Yves Rosseel. In the following video, Yves gives you
+the developer's perspective on the motivation for, and history of, the lavaan
+project. In addition to an interesting discussion of lavaan's development history,
+you will also get to "peak behind the curtain" as Yves discusses some of the more 
+negative aspects of developing open-source software. Enjoy this candid look into
+the mind of lavaan's creator, and feel free to leave your thoughts in the comments
+section below.
+
+{{< video https://youtu.be/3PFwUCNQCE8?si=70Okg7R8OksrpOpm >}}
+
+[Lecture Slides](../../../1_intro/rosseel_lavaan2022.pdf)

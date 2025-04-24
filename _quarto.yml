@@ -1,0 +1,21 @@
+project:
+  type: website
+  render:
+    - "/sections/*/*.qmd"
+    - "/sections/*.qmd"
+    - "about.qmd"
+    - "index.qmd"
+
+website:
+  title: "Structural Equation Modeling in R using lavaan"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

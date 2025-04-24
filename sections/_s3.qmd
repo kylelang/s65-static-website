@@ -1,0 +1,7 @@
+## Lecture
+
+[Click Here](/sections/3_sem_mediation/lecture.qmd)
+
+## Lab
+
+[Click Here](/sections/3_sem_mediation/lab.qmd)

@@ -1,0 +1,12 @@
+### Welcome from Ives Rosseel
+
+[Welcome Lecture](/sections/1_intro/welcome.qmd)
+
+### Lecture
+
+[Lecture Materials](/sections/1_intro/lecture.qmd)
+
+### Lab
+
+- [Lab Exercises](/lavaan-e-learning/1_intro/Lecture 1 - Lab/Exercise with answers - RMK/Lavaan---Lab---regression.html)
+- [Lab Data](/lavaan-e-learning/1_intro/Lecture 1 - Lab/Data files.zip)
