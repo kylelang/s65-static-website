@@ -14,3 +14,30 @@ regression answer 2".
 
 Unfortunately, the recordings do not capture my mouse cursor (it was visible in the recording program, but apparently I
 needed to tick a box or so).
+
+<iframe 
+  width="720"
+  height="530" 
+  src="https://video.uu.nl/permalink/v126adec286aevdo07yp/iframe/"
+  allowfullscreen="allowfullscreen" 
+  allow="autoplay" 
+  frameborder="0">
+</iframe>
+
+<iframe 
+  width="720"
+  height="530" 
+  src="https://video.uu.nl/permalink/v126adec29f290pw18tu/iframe/"
+  allowfullscreen="allowfullscreen" 
+  allow="autoplay" 
+  frameborder="0">
+</iframe>
+
+<iframe 
+  width="720"
+  height="530" 
+  src="https://video.uu.nl/permalink/v126adec2a36b88260gj/iframe/"
+  allowfullscreen="allowfullscreen" 
+  allow="autoplay" 
+  frameborder="0">
+</iframe>

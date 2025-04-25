@@ -21,3 +21,21 @@ the R package restriktor).
 
 I thought I figured out how to capture my mouse cursor, but in the first recording it is not visible anymore after some
 slides.
+
+<iframe 
+  width="720"
+  height="530" 
+  src="https://video.uu.nl/permalink/v126adec2d5c4rst851i/iframe/"
+  allowfullscreen="allowfullscreen" 
+  allow="autoplay" 
+  frameborder="0">
+</iframe>
+
+<iframe 
+  width="720"
+  height="530" 
+  src="https://video.uu.nl/permalink/v126adec2dbcdllpf9hr/iframe/"
+  allowfullscreen="allowfullscreen" 
+  allow="autoplay" 
+  frameborder="0">
+</iframe>
