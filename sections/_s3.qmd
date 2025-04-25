@@ -1,7 +1,11 @@
-## Lecture
-
-[Click Here](/sections/3_sem_mediation/lecture.qmd)
-
-## Lab
-
-[Click Here](/sections/3_sem_mediation/lab.qmd)
+<a href = "/sections/3_multiple_groups/lecture.qmd" class = "button button1">Lecture Materials</a>
+<a
+  href = "/lavaan-e-learning/3_multiple_groups/Lecture 3 - Lab/Exercise with answers - RMK/Lavaan---Lab---Multigroup-and-Meas-invar.html"
+  class = "button button2">
+  Lab Exercises
+</a>
+<a
+  href = "/lavaan-e-learning/3_multiple_groups/Lecture 3 - Lab/Data files.zip"
+  class = "button button2">
+  Lab Data
+</a>

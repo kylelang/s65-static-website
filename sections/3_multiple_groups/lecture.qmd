@@ -1,0 +1,13 @@
+Welcome to the third lecture of this course. This lecture gives you an introduction to multigroup analysis and measurement
+invariance testing using lavaan.
+
+<a
+  href = "/lavaan-e-learning/3_multiple_groups/Lecture 3 - Slides/Slides_Muligroup_and_MeasInvar.pdf"
+  class = "button button1">
+  Lecture Slides
+</a>
+
+## Recordings
+
+Unfortunately, the recordings do not capture my mouse cursor (it was visible in the recording program, but apparently I
+needed to tick a box or so).

@@ -1,0 +1,17 @@
+The page linked below demonstrates how to estimate several different flavors of the RI-CLPM in lavaan.
+
+- <https://jeroendmulder.github.io/RI-CLPM/lavaan.html>
+
+On the two pages linked below, the GORICA is applied to an RI-CLPM (here, to evaluate causal dominance hypotheses where
+strengths of cross-lagged effects are compared).
+
+- <https://jeroendmulder.github.io/RI-CLPM/lavaan.html#gorica>
+- <https://github.com/rebeccakuiper/Tutorials/tree/main/GORICA%20in%20RI-CLPM>
+
+A reference for the RI-CLPM:
+
+Hamaker, E. L., Kuiper, R. M., & Grasman, R. P. P. P. (2015). A critique of the cross-lagged panel model. *Psychological
+Methods, 20*(1), 102–116. <https://doi.org/10.1037/a0038889>
+
+- [Link to preprint](https://www.researchgate.net/publication/274262847_A_Critique_of_the_Cross-Lagged_Panel_Model)
+

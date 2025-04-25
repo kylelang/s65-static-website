@@ -1,0 +1,11 @@
+The following papers discuss network models and DAGS:
+
+Bringmann LF, Vissers N, Wichers M, Geschwind N, Kuppens P, Peeters F, et al. (2013). A Network Approach to Psychopathology:
+New Insights into Clinical Longitudinal Data. *PLoS ONE 8*(4): e60188. <https://doi.org/10.1371/journal.pone.0060188>
+
+- Correction: <https://doi.org/10.1371/journal.pone.0096588>
+
+Ryan, O., Bringmann, L. F., & Schuurman, N. K. (2022). The Challenge of Generating Causal Hypotheses Using Network Models.
+*Structural Equation Modeling: A Multidisciplinary Journal, 29*(6), 953–970. <https://doi.org/10.1080/10705511.2022.2056039>
+
+- [Link to preprint](https://doi.org/10.31234/osf.io/ryg69)

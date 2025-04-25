@@ -1,0 +1,11 @@
+These resources can help you get up-to-speed with basic R usage.
+
+- For a book-length treatment, I like [R for Data Science](https://r4ds.hadley.nz/) by Hadley Wickham and friends.
+- [This link](https://www.kylemlang.com/prepR/) leads to a quick-and-dirty, interactive tutorial that I frequently use
+to help students prep for R-heavy courses at UU.
+- [The Posit Recipes](https://posit.cloud/learn/recipes) page contains many helpful tutorials and R code snippets that
+demonstrate what the Posit/RStudio team views as best practices in R programming.
+- [The R-Primers](https://r-primers.andrewheiss.com/index.html) project created by [Andrew Heiss](https://www.andrewheiss.com/)
+provides a pretty comprehensive series of interactive tutorials covering basic R programming. These tutorials were
+originally hosted by the Posit/RStudio team, but the Posit-hosted versions are no longer available. So, Heiss did us all
+a huge favor and ported the Posit Primer materials to an independent, WebR-based project.

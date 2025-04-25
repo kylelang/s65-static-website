@@ -1,0 +1,2 @@
+<a href = "/sections/6_missing_data/lecture.qmd" class = "button button1">Lecture Materials</a>
+<a href = "/sections/6_missing_data/lab.qmd" class = "button button2">Lab Materials</a>

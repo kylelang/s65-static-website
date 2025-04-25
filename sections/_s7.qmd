@@ -1,0 +1,6 @@
+<a href = "/sections/7_model_selection/lecture.qmd" class = "button button1">Lecture Materials</a>
+<a
+  href = "/lavaan-e-learning/7_model_selection/Lecture 7 - Lab/Lavaan--GORICA.html"
+  class = "button button2">
+  Lab Exercises
+</a>

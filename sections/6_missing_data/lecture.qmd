@@ -1,12 +1,9 @@
-In this module, we'll cover methods for analyzing incomplete data using lavaan. We'll cover both imputation-based solutions and ML-based solutions to the missing data problem.
+In this module, we'll cover methods for analyzing incomplete data using lavaan. We'll cover both imputation-based
+solutions and ML-based solutions to the missing data problem.
 
-## Slides
-
-You can access the lecture slides [here](/lavaan-e-learning/6_missing_data/missing_data.pdf)
+<a href = "/lavaan-e-learning/6_missing_data/missing_data.pdf" class = "button button1">Lecture Slides</a>
 
 ## Videos
-
-Below, you can find the lecture recordings.
 
 ### Introduction
 

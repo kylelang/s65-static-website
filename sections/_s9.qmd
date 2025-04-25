@@ -1,0 +1,3 @@
+<a href = "/sections/9_resources/r_intros.qmd" class = "button button1">R Introductions</a>
+<a href = "/sections/9_resources/ri_clpm.qmd" class = "button button1">RI-CLPM in Lavaan</a>
+<a href = "/sections/9_resources/network_models.qmd" class = "button button1">Network Models</a>

@@ -1,7 +1,2 @@
-## Lecture
-
-[![Lecture Materials](/resources/lecture.png)](/sections/5_missing_data/lecture.qmd)
-
-## Lab
-
-[![Lab Materials](/resources/computer.png)](/sections/5_missing_data/lab.qmd)
+<a href = "/sections/5_moderation/lecture.qmd" class = "button button1">Lecture Materials</a>
+<a href = "/sections/5_moderation/lab.qmd" class = "button button2">Lab Materials</a>

@@ -1,0 +1,8 @@
+
+## Exercises
+
+- [Demonstration Script](/lavaan-e-learning/8_categorical_indicators/code/demo8.html)
+
+## Data
+
+- [Outlook](/lavaan-e-learning/data/outlook.rds)

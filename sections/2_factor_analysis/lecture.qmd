@@ -1,0 +1,13 @@
+Welcome to the second lecture of this course. This lecture gives you an introduction to conducting exploratory and
+confirmatory factor analysis (EFA and a CFA, respectively) using lavaan.
+
+<a
+  href = "/lavaan-e-learning/2_factor_analysis/Lecture  2 - Slides/Slides_EFAandCFA.pdf"
+  class = "button button1">
+  Lecture Slides
+</a>
+
+## Recordings
+
+Unfortunately, the recordings do not capture my mouse cursor (it was visible in the recording program, but apparently I
+needed to tick a box or so).

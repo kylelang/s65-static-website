@@ -1,0 +1,1 @@
+<a href = "/sections/8_categorical/lab.qmd" class = "button button2">Lab Materials</a>

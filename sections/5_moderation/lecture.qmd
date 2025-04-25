@@ -1,12 +1,9 @@
-In this module, we will go over moderation analysis using lavaan, including how to specify interactions between latent variables and how to use multiple group models to test for moderation by group.
+In this module, we will go over moderation analysis using lavaan, including how to specify interactions between latent
+variables and how to use multiple group models to test for moderation by group.
 
-## Slides
-
-You can access the lecture slides [here](/lavaan-e-learning/5_moderation/moderation.pdf).
+<a href = "/lavaan-e-learning/5_moderation/moderation.pdf" class = "button button1">Lecture Slides</a>
 
 ## Videos
-
-Below, you can find the lecture recordings.
 
 ### Moderation Basics
 
@@ -24,7 +21,8 @@ Below, you can find the lecture recordings.
 
 {{< video https://youtu.be/yRR7TMl2Abc?si=A3cC9jtm_dzH49L7 >}}
 
-*Note:* In 2024, I added some material on latent variable interactions. So, the slide numbers in the second half of the recordings won't match the lecture slides. The divergence begins in the last few minutes of the double mean centering recording.
+*Note:* In 2024, I added some material on latent variable interactions. So, the slide numbers in the second half of the
+recordings won't match the lecture slides. The divergence begins in the last few minutes of the double mean centering recording.
 
 ### Latent Variable Interactions
 

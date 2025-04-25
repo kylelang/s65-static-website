@@ -1,0 +1,11 @@
+<a href = "/sections/2_factor_analysis/lecture.qmd" class = "button button1">Lecture Materials</a>
+<a
+  href = "/lavaan-e-learning/2_factor_analysis/Lecture  2 - Lab/Exercise with answers - RMK/Lavaan---EFA-and-CFA.html"
+  class = "button button2">
+  Lab Exercises
+</a>
+<a
+  href = "/lavaan-e-learning/2_factor_analysis/Lecture  2 - Lab/Data files.zip"
+  class = "button button2">
+  Lab Data
+</a>

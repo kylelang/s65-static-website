@@ -1,13 +1,16 @@
-Welcome to the first lecture of this course. This lecture gives you an introduction to SEM in lavaan and, more specifically, to running a regression model using lavaan.
+Welcome to the first lecture of this course. This lecture gives you an introduction to SEM in lavaan and, more specifically,
+to running a regression model using lavaan.
 
-The (updated) slides of this lecture can be found at the bottom (under the header Resources). Please note the change on the slide "4. Specify your model: regression answer 2". 
+You can download the (updated) slides of this lecture below. Please note the change on the slide "4. Specify your model:
+regression answer 2". 
 
-Below, you can find the lecture recordings covering the slides. Feel free to play the video on double speed.
+<a
+  href = "/lavaan-e-learning/1_intro/Lecture  1 - Slides/Slides_Intro_and_Regr.pdf"
+  class = "button button1">
+  Lecture Slides
+</a>
 
 ## Recordings
 
-Unfortunately, the recordings do not capture my mouse cursor (it was visible in the recording program, but apparently I needed to tick a box or so). In case anything is unclear, please ask me or Kyle during the Q&A session or via a discussion platform.
-
-## Resources
-
-[Lecture Slides](/lavaan-e-learning/1_intro/Lecture  1 - Slides/Slides_Intro_and_Regr.pdf)
+Unfortunately, the recordings do not capture my mouse cursor (it was visible in the recording program, but apparently I
+needed to tick a box or so).

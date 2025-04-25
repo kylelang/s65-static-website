@@ -1,7 +1,2 @@
-## Lecture
-
-[Click Here](/sections/4_moderation/lecture.qmd)
-
-## Lab
-
-[Click Here](/sections/4_moderation/lab.qmd)
+<a href = "/sections/4_sem_mediation/lecture.qmd" class = "button button1">Lecture Materials</a>
+<a href = "/sections/4_sem_mediation/lab.qmd" class = "button button2">Lab Materials</a>

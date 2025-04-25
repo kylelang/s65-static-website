@@ -2,18 +2,101 @@
 title: "Structural Equation Modeling in R using lavaan"
 ---
 
-## Introduction
+::: {.callout-note icon=false collapse=true}
+
+## Welcome from Ives Rosseel
+
+{{< include /sections/_s0.qmd >}}
+
+:::
+
+<!--------------------------------------------------------------------------------------------------------------------->
+
+::: {.callout-note icon=false collapse=true}
+
+## Introduction & Regression
 
 {{< include /sections/_s1.qmd >}}
 
-## Full SEM & Mediation
+:::
+
+<!--------------------------------------------------------------------------------------------------------------------->
+
+::: {.callout-note icon=false collapse=true}
+
+## Factor Analysis
+
+{{< include /sections/_s2.qmd >}}
+
+:::
+
+<!--------------------------------------------------------------------------------------------------------------------->
+
+::: {.callout-note icon=false collapse=true}
+
+## Multiple Group Modeling & Measurement Invariance
 
 {{< include /sections/_s3.qmd >}}
 
-## Moderation
+:::
+
+<!--------------------------------------------------------------------------------------------------------------------->
+
+::: {.callout-note icon=false collapse=true}
+
+## Full SEM & Mediation
 
 {{< include /sections/_s4.qmd >}}
 
-## Missing Data
+:::
+
+<!--------------------------------------------------------------------------------------------------------------------->
+
+::: {.callout-note icon=false collapse=true}
+
+## Moderation
 
 {{< include /sections/_s5.qmd >}}
+
+:::
+
+<!--------------------------------------------------------------------------------------------------------------------->
+
+::: {.callout-note icon=false collapse=true}
+
+## Missing Data
+
+{{< include /sections/_s6.qmd >}}
+
+:::
+
+<!--------------------------------------------------------------------------------------------------------------------->
+
+::: {.callout-note icon=false collapse=true}
+
+## Model Selection
+
+{{< include /sections/_s7.qmd >}}
+
+:::
+
+<!--------------------------------------------------------------------------------------------------------------------->
+
+::: {.callout-note icon=false collapse=true}
+
+## Categorical Indicators
+
+<a href = "/lavaan-e-learning/8_categorical_indicators/code/demo8.html" class = "button button2">Demonstration Exercises</a>
+<a href = "/lavaan-e-learning/data/outlook.rds" class = "button button2">Demonstration Data</a>
+
+:::
+
+<!--------------------------------------------------------------------------------------------------------------------->
+
+::: {.callout-note icon=false collapse=true}
+
+## Background Material & Resources
+
+{{< include /sections/_s9.qmd >}}
+
+:::

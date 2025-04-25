@@ -1,13 +1,9 @@
 In this module, we will cover full structural equation modeling (SEM) and take a deep dive into mediation analysis as a
 motivating application of SEM.
 
-## Slides
-
-You can access the lecture slides [here](/lavaan-e-learning/4_sem_mediation/sem_mediation.pdf).
+<a href = "/lavaan-e-learning/4_sem_mediation/sem_mediation.pdf" class = "button button1">Lecture Slides</a>
 
 ## Videos
-
-Below, you can find the lecture recordings.
 
 ### Full SEM
 
