@@ -1,8 +1,8 @@
 project:
   type: website
+  output-dir: docs
   render:
-    - "/sections/*/*.qmd"
-    - "/sections/*.qmd"
+    - "/sections/*"
     - "about.qmd"
     - "index.qmd"
 
