@@ -1,7 +1,3 @@
----
-title: "Structural Equation Modeling in R using lavaan"
----
-
 ::: {.callout-note icon=false collapse=true}
 
 ## Welcome from Ives Rosseel

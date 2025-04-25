@@ -3,19 +3,31 @@ project:
   output-dir: docs
   render:
     - "/sections/*"
-    - "about.qmd"
+    #    - "about.qmd"
     - "index.qmd"
 
 website:
-  title: "Structural Equation Modeling in R using lavaan"
+  title: "Structural Equation Modeling in R using Lavaan"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    search: true
+  #     - about.qmd
+  # sidebar:
+  #   style: "docked"
+  #   search: true
+  #   contents:
+  #     - text: "Welcome"
+  #       href: /sections/1_intro/welcome.qmd
+  #     - section: "Introduction"
+  #       contents:
+  #         - /sections/1_intro/lecture.qmd
+  #         - "/lavaan-e-learning/1_intro/Lecture 1 - Lab/Exercise with answers - RMK/Lavaan---Lab---regression.html"
+  #     - section: "Full SEM & Mediation"
+  #       contents:
+  #         - /sections/4_sem_mediation/lecture.qmd
+  #         - /sections/4_sem_mediation/lab.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: sandstone
     css: /resources/styles.css
     toc: true
