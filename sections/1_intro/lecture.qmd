@@ -5,7 +5,7 @@ You can download the (updated) slides of this lecture below. Please note the cha
 regression answer 2". 
 
 <a
-  href = "/lavaan-e-learning/1_intro/Lecture  1 - Slides/Slides_Intro_and_Regr.pdf"
+  href = "/lavaan-e-learning/1_intro/Slides_Intro_and_Regr.pdf"
   class = "button button1">
   Lecture Slides
 </a>

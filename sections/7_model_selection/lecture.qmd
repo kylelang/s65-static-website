@@ -5,12 +5,12 @@ You can dowload the slides of this lecture below. I also added a new set of slid
 the R package restriktor).
 
 <a
-  href = "/lavaan-e-learning/7_model_selection/Lecture 7 - Slides/Slides_Model_selection - used in recording.pdf"
+  href = "/lavaan-e-learning/7_model_selection/Slides_Model_selection - used in recording.pdf"
   class = "button button1">
   Lecture Slides from Recording
 </a>
 <a
-  href = "/lavaan-e-learning/7_model_selection/Lecture 7 - Slides/Slides_Model_selection.pdf"
+  href = "/lavaan-e-learning/7_model_selection/Slides_Model_selection.pdf"
   class = "button button1">
   Updated Lecture Slides
 </a>

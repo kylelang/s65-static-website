@@ -2,7 +2,7 @@ Welcome to the third lecture of this course. This lecture gives you an introduct
 invariance testing using lavaan.
 
 <a
-  href = "/lavaan-e-learning/3_multiple_groups/Lecture 3 - Slides/Slides_Muligroup_and_MeasInvar.pdf"
+  href = "/lavaan-e-learning/3_multiple_groups/Slides_Muligroup_and_MeasInvar.pdf"
   class = "button button1">
   Lecture Slides
 </a>
