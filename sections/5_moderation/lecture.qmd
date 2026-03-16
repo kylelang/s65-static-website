@@ -28,6 +28,10 @@ recordings won't match the lecture slides. The divergence begins in the last few
 
 {{< video https://youtu.be/gh6o1Zs4GE8?si=-M6XF2QalVw90uv9 >}}
 
+*Note:* As of March 2026, the SAM approach is more viable than suggested by these lectures. The lavaan implementation
+still doesn't provide analytic standard errors for latent variable interaction terms, but we can now use bootstrapping
+to estimate these standard errors. You will have a chance to practice this approach in the lab exercises.
+
 ### Multiple Moderation
 
 {{< video https://youtu.be/cW9DFI_7p1s?si=O1t4JasC6VQQYHt0 >}}

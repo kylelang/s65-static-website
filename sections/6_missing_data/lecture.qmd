@@ -29,6 +29,15 @@ solutions and ML-based solutions to the missing data problem.
 
 {{< video https://youtu.be/n456EjFEDqg?si=e7n7CQAijzvOA2lv >}}
 
+*NOTE:* The routines for conducting MI-based CFA and SEM have moved from the semTools package to the lavaan.mi package,
+so there are a few cosmetic differences between the slides in the recording and the updated slides linked above. In
+particular:
+
+- The `cfa.mi()` and `sem.mi()` functions are now provided by **lavaan.mi**, not **semTools**.
+- The underlying function wrapped by `cfa.mi()` and `sem.mi()` is `lavaan.mi()`, not `runMI()`.
+- The argument used to specify the type of fit statistic pooling in `fitMeasures()`, `anova()`, and `lavTestWald.mi()`
+has changed from *"test"* to *"pool.method"*.
+
 ### Univariate Maximum Likelihood
 
 {{< video https://youtu.be/iGdn_0Yryas?si=zcflYGIuqn9Khxpb >}}

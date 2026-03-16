@@ -193,7 +193,7 @@
     "href": "sections/9_resources/r_intros.html",
     "title": "Structural Equation Modeling in R using Lavaan",
     "section": "",
-    "text": "These resources can help you get up-to-speed with basic R usage.\n\nFor a book-length treatment, I like R for Data Science by Hadley Wickham and friends.\nThis link leads to a quick-and-dirty, interactive tutorial that I frequently use to help students prep for R-heavy courses at UU.\nThe Posit Recipes page contains many helpful tutorials and R code snippets that demonstrate what the Posit/RStudio team views as best practices in R programming.\nThe R-Primers project created by Andrew Heiss provides a pretty comprehensive series of interactive tutorials covering basic R programming. These tutorials were originally hosted by the Posit/RStudio team, but the Posit-hosted versions are no longer available. So, Heiss did us all a huge favor and ported the Posit Primer materials to an independent, WebR-based project."
+    "text": "The following tutorials can help you get up-to-speed with basic R usage.\n\nThe Open Statistical Programming platform provides a structured sequence of interactive, web-based tutorials that cover the prerequisite R skills needed for most UU courses.\nThe Posit Recipes page contains many helpful tutorials and R code snippets that demonstrate what the Posit/RStudio team views as best practices in R programming.\nThe R-Primers project created by Andrew Heiss provides a pretty comprehensive series of interactive tutorials covering basic R programming. These tutorials were originally hosted by the Posit/RStudio team, but the Posit-hosted versions are no longer available. So, Heiss did us all a huge favor and ported the Posit Primer materials to an independent, WebR-based project.\n\nAs for books, I like R for Data Science by Hadley Wickham and friends."
   },
   {
     "objectID": "sections/5_moderation/lecture.html",
@@ -207,7 +207,7 @@
     "href": "sections/5_moderation/lecture.html#videos",
     "title": "Structural Equation Modeling in R using Lavaan",
     "section": "Videos",
-    "text": "Videos\n\nModeration Basics\n\n\n\nPost Hoc Analysis\n\n\n\nOrthogonalization\n\n\n\nDouble Mean Centering\n\nNote: In 2024, I added some material on latent variable interactions. So, the slide numbers in the second half of the recordings won’t match the lecture slides. The divergence begins in the last few minutes of the double mean centering recording.\n\n\nLatent Variable Interactions\n\n\n\nMultiple Moderation\n\n\n\nCategorical Moderators\n\n\n\nModeration via Multiple Group SEM"
+    "text": "Videos\n\nModeration Basics\n\n\n\nPost Hoc Analysis\n\n\n\nOrthogonalization\n\n\n\nDouble Mean Centering\n\nNote: In 2024, I added some material on latent variable interactions. So, the slide numbers in the second half of the recordings won’t match the lecture slides. The divergence begins in the last few minutes of the double mean centering recording.\n\n\nLatent Variable Interactions\n\nNote: As of March 2026, the SAM approach is more viable than suggested by these lectures. The lavaan implementation still doesn’t provide analytic standard errors for latent variable interaction terms, but we can now use bootstrapping to estimate these standard errors. You will have a chance to practice this approach in the lab exercises.\n\n\nMultiple Moderation\n\n\n\nCategorical Moderators\n\n\n\nModeration via Multiple Group SEM"
   },
   {
     "objectID": "sections/6_missing_data/lecture.html",
@@ -221,6 +221,6 @@
     "href": "sections/6_missing_data/lecture.html#videos",
     "title": "Structural Equation Modeling in R using Lavaan",
     "section": "Videos",
-    "text": "Videos\n\nIntroduction\n\n\n\nMissing Data Mechanisms\n\n\n\nSingle Imputation\n\n\n\nMultiple Imputation Basics\n\n\n\nMultiple Imputation Extensions\n\n\n\nMI-Based Analysis\n\n\n\nUnivariate Maximum Likelihood\n\n\n\nMultivariate ML\n\n\n\nFIML Intuition & Theory\n\n\n\nFIML Application & Extensions"
+    "text": "Videos\n\nIntroduction\n\n\n\nMissing Data Mechanisms\n\n\n\nSingle Imputation\n\n\n\nMultiple Imputation Basics\n\n\n\nMultiple Imputation Extensions\n\n\n\nMI-Based Analysis\n\nNOTE: The routines for conducting MI-based CFA and SEM have moved from the semTools package to the lavaan.mi package, so there are a few cosmetic differences between the slides in the recording and the updated slides linked above. In particular:\n\nThe cfa.mi() and sem.mi() functions are now provided by lavaan.mi, not semTools.\nThe underlying function wrapped by cfa.mi() and sem.mi() is lavaan.mi(), not runMI().\nThe argument used to specify the type of fit statistic pooling in fitMeasures(), anova(), and lavTestWald.mi() has changed from “test” to “pool.method”.\n\n\n\nUnivariate Maximum Likelihood\n\n\n\nMultivariate ML\n\n\n\nFIML Intuition & Theory\n\n\n\nFIML Application & Extensions"
   }
 ]
