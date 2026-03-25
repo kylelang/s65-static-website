@@ -82,8 +82,7 @@
 
 ## Categorical Indicators
 
-<a href = "/lavaan-e-learning/8_categorical_indicators/code/demo8.html" class = "button button2">Demonstration Exercises</a>
-<a href = "/lavaan-e-learning/data/outlook.rds" class = "button button2">Demonstration Data</a>
+{{< include /sections/_s8.qmd >}}
 
 :::
 

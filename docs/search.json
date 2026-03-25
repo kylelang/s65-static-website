@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Structural Equation Modeling in R using Lavaan",
     "section": "",
-    "text": "Welcome from Ives Rosseel\n\n\n\n\n\nLecture Materials\n\n\n\n\n\n\n\n\n\n\nIntroduction & Regression\n\n\n\n\n\nLecture Materials  Lab Exercises  Lab Data\n\n\n\n\n\n\n\n\n\n\nFactor Analysis\n\n\n\n\n\nLecture Materials  Lab Exercises   Lab Data \n\n\n\n\n\n\n\n\n\n\nMultiple Group Modeling & Measurement Invariance\n\n\n\n\n\nLecture Materials  Lab Exercises   Lab Data \n\n\n\n\n\n\n\n\n\n\nFull SEM & Mediation\n\n\n\n\n\nLecture Materials Lab Materials\n\n\n\n\n\n\n\n\n\n\nModeration\n\n\n\n\n\nLecture Materials Lab Materials\n\n\n\n\n\n\n\n\n\n\nMissing Data\n\n\n\n\n\nLecture Materials Lab Materials\n\n\n\n\n\n\n\n\n\n\nModel Selection\n\n\n\n\n\nLecture Materials  Lab Exercises \n\n\n\n\n\n\n\n\n\n\nCategorical Indicators\n\n\n\n\n\nDemonstration Exercises Demonstration Data\n\n\n\n\n\n\n\n\n\n\nBackground Material & Resources\n\n\n\n\n\nR Introductions RI-CLPM in Lavaan Network Models"
+    "text": "Welcome from Ives Rosseel\n\n\n\n\n\nLecture Materials\n\n\n\n\n\n\n\n\n\n\nIntroduction & Regression\n\n\n\n\n\nLecture Materials  Lab Exercises  Lab Data\n\n\n\n\n\n\n\n\n\n\nFactor Analysis\n\n\n\n\n\nLecture Materials  Lab Exercises   Lab Data \n\n\n\n\n\n\n\n\n\n\nMultiple Group Modeling & Measurement Invariance\n\n\n\n\n\nLecture Materials  Lab Exercises   Lab Data \n\n\n\n\n\n\n\n\n\n\nFull SEM & Mediation\n\n\n\n\n\nLecture Materials Lab Materials\n\n\n\n\n\n\n\n\n\n\nModeration\n\n\n\n\n\nLecture Materials Lab Materials\n\n\n\n\n\n\n\n\n\n\nMissing Data\n\n\n\n\n\nLecture Materials Lab Materials\n\n\n\n\n\n\n\n\n\n\nModel Selection\n\n\n\n\n\nLecture Materials  Lab Exercises \n\n\n\n\n\n\n\n\n\n\nCategorical Indicators\n\n\n\n\n\nDemonstration Lab Materials\n\n\n\n\n\n\n\n\n\n\nBackground Material & Resources\n\n\n\n\n\nR Introductions RI-CLPM in Lavaan Network Models"
   },
   {
     "objectID": "sections/4_sem_mediation/lecture.html",
@@ -35,102 +35,39 @@
     "text": "The page linked below demonstrates how to estimate several different flavors of the RI-CLPM in lavaan.\n\nhttps://jeroendmulder.github.io/RI-CLPM/lavaan.html\n\nOn the two pages linked below, the GORICA is applied to an RI-CLPM (here, to evaluate causal dominance hypotheses where strengths of cross-lagged effects are compared).\n\nhttps://jeroendmulder.github.io/RI-CLPM/lavaan.html#gorica\nhttps://github.com/rebeccakuiper/Tutorials/tree/main/GORICA%20in%20RI-CLPM\n\nA reference for the RI-CLPM:\nHamaker, E. L., Kuiper, R. M., & Grasman, R. P. P. P. (2015). A critique of the cross-lagged panel model. Psychological Methods, 20(1), 102–116. https://doi.org/10.1037/a0038889\n\nLink to preprint"
   },
   {
-    "objectID": "sections/9_resources/network_models.html",
-    "href": "sections/9_resources/network_models.html",
+    "objectID": "sections/1_intro/lecture.html",
+    "href": "sections/1_intro/lecture.html",
     "title": "Structural Equation Modeling in R using Lavaan",
     "section": "",
-    "text": "The following papers discuss network models and DAGS:\nBringmann LF, Vissers N, Wichers M, Geschwind N, Kuppens P, Peeters F, et al. (2013). A Network Approach to Psychopathology: New Insights into Clinical Longitudinal Data. PLoS ONE 8(4): e60188. https://doi.org/10.1371/journal.pone.0060188\n\nCorrection: https://doi.org/10.1371/journal.pone.0096588\n\nRyan, O., Bringmann, L. F., & Schuurman, N. K. (2022). The Challenge of Generating Causal Hypotheses Using Network Models. Structural Equation Modeling: A Multidisciplinary Journal, 29(6), 953–970. https://doi.org/10.1080/10705511.2022.2056039\n\nLink to preprint"
+    "text": "Welcome to the first lecture of this course. This lecture gives you an introduction to SEM in lavaan and, more specifically, to running a regression model using lavaan.\nYou can download the (updated) slides of this lecture below. Please note the change on the slide “4. Specify your model: regression answer 2”.\nLecture Slides"
   },
   {
-    "objectID": "sections/7_model_selection/lecture.html",
-    "href": "sections/7_model_selection/lecture.html",
-    "title": "Structural Equation Modeling in R using Lavaan",
-    "section": "",
-    "text": "Welcome to the last lecture of this course. This lecture gives you an introduction to model selection for lavaan SEM models, where we will mainly look at the AIC and the so-called GORICA and at IC weights.\nYou can dowload the slides of this lecture below. I also added a new set of slides that contain the newest R code (of the R package restriktor).\nLecture Slides from Recording   Updated Lecture Slides\nNote: If, after the course, you want to use GORIC or GORICA in your own research, feel free to contact me."
-  },
-  {
-    "objectID": "sections/7_model_selection/lecture.html#recordings",
-    "href": "sections/7_model_selection/lecture.html#recordings",
-    "title": "Structural Equation Modeling in R using Lavaan",
-    "section": "Recordings",
-    "text": "Recordings\nI thought I figured out how to capture my mouse cursor, but in the first recording it is not visible anymore after some slides."
-  },
-  {
-    "objectID": "sections/5_moderation/lab.html",
-    "href": "sections/5_moderation/lab.html",
-    "title": "Structural Equation Modeling in R using Lavaan",
-    "section": "",
-    "text": "Without Solutions\nWith Solutions"
-  },
-  {
-    "objectID": "sections/5_moderation/lab.html#exercises",
-    "href": "sections/5_moderation/lab.html#exercises",
-    "title": "Structural Equation Modeling in R using Lavaan",
-    "section": "",
-    "text": "Without Solutions\nWith Solutions"
-  },
-  {
-    "objectID": "sections/5_moderation/lab.html#data",
-    "href": "sections/5_moderation/lab.html#data",
-    "title": "Structural Equation Modeling in R using Lavaan",
-    "section": "Data",
-    "text": "Data\n\nOutlook\nHolzinger & Swineford"
-  },
-  {
-    "objectID": "sections/3_multiple_groups/lecture.html",
-    "href": "sections/3_multiple_groups/lecture.html",
-    "title": "Structural Equation Modeling in R using Lavaan",
-    "section": "",
-    "text": "Welcome to the third lecture of this course. This lecture gives you an introduction to multigroup analysis and measurement invariance testing using lavaan.\nLecture Slides"
-  },
-  {
-    "objectID": "sections/3_multiple_groups/lecture.html#recordings",
-    "href": "sections/3_multiple_groups/lecture.html#recordings",
+    "objectID": "sections/1_intro/lecture.html#recordings",
+    "href": "sections/1_intro/lecture.html#recordings",
     "title": "Structural Equation Modeling in R using Lavaan",
     "section": "Recordings",
     "text": "Recordings\nUnfortunately, the recordings do not capture my mouse cursor (it was visible in the recording program, but apparently I needed to tick a box or so)."
   },
   {
-    "objectID": "sections/1_intro/lab.html",
-    "href": "sections/1_intro/lab.html",
+    "objectID": "sections/8_categorical/demo.html",
+    "href": "sections/8_categorical/demo.html",
     "title": "Structural Equation Modeling in R using Lavaan",
     "section": "",
-    "text": "Lab Exercises\nLab Data"
+    "text": "Demonstration Script"
   },
   {
-    "objectID": "sections/2_factor_analysis/lecture.html",
-    "href": "sections/2_factor_analysis/lecture.html",
+    "objectID": "sections/8_categorical/demo.html#exercises",
+    "href": "sections/8_categorical/demo.html#exercises",
     "title": "Structural Equation Modeling in R using Lavaan",
     "section": "",
-    "text": "Welcome to the second lecture of this course. This lecture gives you an introduction to conducting exploratory and confirmatory factor analysis (EFA and a CFA, respectively) using lavaan.\nLecture Slides"
+    "text": "Demonstration Script"
   },
   {
-    "objectID": "sections/2_factor_analysis/lecture.html#recordings",
-    "href": "sections/2_factor_analysis/lecture.html#recordings",
-    "title": "Structural Equation Modeling in R using Lavaan",
-    "section": "Recordings",
-    "text": "Recordings\nUnfortunately, the recordings do not capture my mouse cursor (it was visible in the recording program, but apparently I needed to tick a box or so)."
-  },
-  {
-    "objectID": "sections/4_sem_mediation/lab.html",
-    "href": "sections/4_sem_mediation/lab.html",
-    "title": "Structural Equation Modeling in R using Lavaan",
-    "section": "",
-    "text": "Without Solutions\nWith Solutions"
-  },
-  {
-    "objectID": "sections/4_sem_mediation/lab.html#exercises",
-    "href": "sections/4_sem_mediation/lab.html#exercises",
-    "title": "Structural Equation Modeling in R using Lavaan",
-    "section": "",
-    "text": "Without Solutions\nWith Solutions"
-  },
-  {
-    "objectID": "sections/4_sem_mediation/lab.html#data",
-    "href": "sections/4_sem_mediation/lab.html#data",
+    "objectID": "sections/8_categorical/demo.html#data",
+    "href": "sections/8_categorical/demo.html#data",
     "title": "Structural Equation Modeling in R using Lavaan",
     "section": "Data",
-    "text": "Data\n\nHolzinger & Swineford\nEating Attitudes"
+    "text": "Data\n\nOutlook"
   },
   {
     "objectID": "sections/6_missing_data/lab.html",
@@ -154,39 +91,123 @@
     "text": "Data\n\nEating Attitudes"
   },
   {
+    "objectID": "sections/4_sem_mediation/lab.html",
+    "href": "sections/4_sem_mediation/lab.html",
+    "title": "Structural Equation Modeling in R using Lavaan",
+    "section": "",
+    "text": "Without Solutions\nWith Solutions"
+  },
+  {
+    "objectID": "sections/4_sem_mediation/lab.html#exercises",
+    "href": "sections/4_sem_mediation/lab.html#exercises",
+    "title": "Structural Equation Modeling in R using Lavaan",
+    "section": "",
+    "text": "Without Solutions\nWith Solutions"
+  },
+  {
+    "objectID": "sections/4_sem_mediation/lab.html#data",
+    "href": "sections/4_sem_mediation/lab.html#data",
+    "title": "Structural Equation Modeling in R using Lavaan",
+    "section": "Data",
+    "text": "Data\n\nHolzinger & Swineford\nEating Attitudes"
+  },
+  {
+    "objectID": "sections/2_factor_analysis/lecture.html",
+    "href": "sections/2_factor_analysis/lecture.html",
+    "title": "Structural Equation Modeling in R using Lavaan",
+    "section": "",
+    "text": "Welcome to the second lecture of this course. This lecture gives you an introduction to conducting exploratory and confirmatory factor analysis (EFA and a CFA, respectively) using lavaan.\nLecture Slides"
+  },
+  {
+    "objectID": "sections/2_factor_analysis/lecture.html#recordings",
+    "href": "sections/2_factor_analysis/lecture.html#recordings",
+    "title": "Structural Equation Modeling in R using Lavaan",
+    "section": "Recordings",
+    "text": "Recordings\nUnfortunately, the recordings do not capture my mouse cursor (it was visible in the recording program, but apparently I needed to tick a box or so)."
+  },
+  {
+    "objectID": "sections/1_intro/lab.html",
+    "href": "sections/1_intro/lab.html",
+    "title": "Structural Equation Modeling in R using Lavaan",
+    "section": "",
+    "text": "Lab Exercises\nLab Data"
+  },
+  {
+    "objectID": "sections/3_multiple_groups/lecture.html",
+    "href": "sections/3_multiple_groups/lecture.html",
+    "title": "Structural Equation Modeling in R using Lavaan",
+    "section": "",
+    "text": "Welcome to the third lecture of this course. This lecture gives you an introduction to multigroup analysis and measurement invariance testing using lavaan.\nLecture Slides"
+  },
+  {
+    "objectID": "sections/3_multiple_groups/lecture.html#recordings",
+    "href": "sections/3_multiple_groups/lecture.html#recordings",
+    "title": "Structural Equation Modeling in R using Lavaan",
+    "section": "Recordings",
+    "text": "Recordings\nUnfortunately, the recordings do not capture my mouse cursor (it was visible in the recording program, but apparently I needed to tick a box or so)."
+  },
+  {
+    "objectID": "sections/5_moderation/lab.html",
+    "href": "sections/5_moderation/lab.html",
+    "title": "Structural Equation Modeling in R using Lavaan",
+    "section": "",
+    "text": "Without Solutions\nWith Solutions"
+  },
+  {
+    "objectID": "sections/5_moderation/lab.html#exercises",
+    "href": "sections/5_moderation/lab.html#exercises",
+    "title": "Structural Equation Modeling in R using Lavaan",
+    "section": "",
+    "text": "Without Solutions\nWith Solutions"
+  },
+  {
+    "objectID": "sections/5_moderation/lab.html#data",
+    "href": "sections/5_moderation/lab.html#data",
+    "title": "Structural Equation Modeling in R using Lavaan",
+    "section": "Data",
+    "text": "Data\n\nOutlook\nHolzinger & Swineford"
+  },
+  {
+    "objectID": "sections/7_model_selection/lecture.html",
+    "href": "sections/7_model_selection/lecture.html",
+    "title": "Structural Equation Modeling in R using Lavaan",
+    "section": "",
+    "text": "Welcome to the last lecture of this course. This lecture gives you an introduction to model selection for lavaan SEM models, where we will mainly look at the AIC and the so-called GORICA and at IC weights.\nYou can dowload the slides of this lecture below. I also added a new set of slides that contain the newest R code (of the R package restriktor).\nLecture Slides from Recording   Updated Lecture Slides\nNote: If, after the course, you want to use GORIC or GORICA in your own research, feel free to contact me."
+  },
+  {
+    "objectID": "sections/7_model_selection/lecture.html#recordings",
+    "href": "sections/7_model_selection/lecture.html#recordings",
+    "title": "Structural Equation Modeling in R using Lavaan",
+    "section": "Recordings",
+    "text": "Recordings\nI thought I figured out how to capture my mouse cursor, but in the first recording it is not visible anymore after some slides."
+  },
+  {
+    "objectID": "sections/9_resources/network_models.html",
+    "href": "sections/9_resources/network_models.html",
+    "title": "Structural Equation Modeling in R using Lavaan",
+    "section": "",
+    "text": "The following papers discuss network models and DAGS:\nBringmann LF, Vissers N, Wichers M, Geschwind N, Kuppens P, Peeters F, et al. (2013). A Network Approach to Psychopathology: New Insights into Clinical Longitudinal Data. PLoS ONE 8(4): e60188. https://doi.org/10.1371/journal.pone.0060188\n\nCorrection: https://doi.org/10.1371/journal.pone.0096588\n\nRyan, O., Bringmann, L. F., & Schuurman, N. K. (2022). The Challenge of Generating Causal Hypotheses Using Network Models. Structural Equation Modeling: A Multidisciplinary Journal, 29(6), 953–970. https://doi.org/10.1080/10705511.2022.2056039\n\nLink to preprint"
+  },
+  {
     "objectID": "sections/8_categorical/lab.html",
     "href": "sections/8_categorical/lab.html",
     "title": "Structural Equation Modeling in R using Lavaan",
     "section": "",
-    "text": "Demonstration Script"
+    "text": "Without Solutions\nWith Solutions"
   },
   {
     "objectID": "sections/8_categorical/lab.html#exercises",
     "href": "sections/8_categorical/lab.html#exercises",
     "title": "Structural Equation Modeling in R using Lavaan",
     "section": "",
-    "text": "Demonstration Script"
+    "text": "Without Solutions\nWith Solutions"
   },
   {
     "objectID": "sections/8_categorical/lab.html#data",
     "href": "sections/8_categorical/lab.html#data",
     "title": "Structural Equation Modeling in R using Lavaan",
     "section": "Data",
-    "text": "Data\n\nOutlook"
-  },
-  {
-    "objectID": "sections/1_intro/lecture.html",
-    "href": "sections/1_intro/lecture.html",
-    "title": "Structural Equation Modeling in R using Lavaan",
-    "section": "",
-    "text": "Welcome to the first lecture of this course. This lecture gives you an introduction to SEM in lavaan and, more specifically, to running a regression model using lavaan.\nYou can download the (updated) slides of this lecture below. Please note the change on the slide “4. Specify your model: regression answer 2”.\nLecture Slides"
-  },
-  {
-    "objectID": "sections/1_intro/lecture.html#recordings",
-    "href": "sections/1_intro/lecture.html#recordings",
-    "title": "Structural Equation Modeling in R using Lavaan",
-    "section": "Recordings",
-    "text": "Recordings\nUnfortunately, the recordings do not capture my mouse cursor (it was visible in the recording program, but apparently I needed to tick a box or so)."
+    "text": "Data\n\nKIMS"
   },
   {
     "objectID": "sections/9_resources/r_intros.html",
